@@ -1,3 +1,8 @@
+### Branch note:
+
+ - This branch is forked from the v4.1.0 release tag
+ - It's meant to fix a single thing: The green rectangle view/line width in the ios barcode scanner view 
+
 # PhoneGap Plugin BarcodeScanner
 ================================
 
